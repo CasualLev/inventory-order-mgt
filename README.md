@@ -10,6 +10,10 @@ Run the scripts in order against MySQL 8.x:
 
 2. `sample_data.sql` – sample products, customers and opening stock
 
+3. `order_processing.sql` – bulk discount function, stock/log/total trigger,
+   and the `place_order` procedure (run in Workbench: uses DELIMITER)
+4. `order_demo.sql` – sample orders and verification queries
+
 ## Tech
 MySQL 8.4 LTS · VS Code + SQLTools
 
