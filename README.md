@@ -14,6 +14,9 @@ Run the scripts in order against MySQL 8.x:
    and the `place_order` procedure (run in Workbench: uses DELIMITER)
 4. `order_demo.sql` – sample orders and verification queries
 
+5. `reports.sql` – tier function, order/customer summaries, low-stock,
+   spending tiers, bulk discount and sales reports
+
 ## Tech
 MySQL 8.4 LTS · VS Code + SQLTools
 
