@@ -8,5 +8,8 @@ Run the scripts in order against MySQL 8.x:
 
 1. `schema.sql` – tables, relationships and constraints
 
+2. `sample_data.sql` – sample products, customers and opening stock
+
 ## Tech
 MySQL 8.4 LTS · VS Code + SQLTools
+
